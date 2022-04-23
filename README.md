@@ -8,7 +8,7 @@ Password Generator in python
 ```
 git clone https://github.com/lucadado/password-generator.git
 cd password-generator
-py install -r requirements.txt
+pip install -r requirements.txt
 py password-generator.py
 ```
 
