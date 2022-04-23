@@ -1,4 +1,5 @@
-#why don't you re-write this in c++?
+#why don't you re-write this in c++ aka a superior language to c and no bloat compared to python?
+'''
 from msilib.schema import Error
 import random
 import os
@@ -65,3 +66,4 @@ def back():
         os.system("clear")
     start()    
 start()
+'''
