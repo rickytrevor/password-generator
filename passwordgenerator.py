@@ -1,4 +1,4 @@
-#you might want to refactor this
+#why don't you re-write this in c++?
 from msilib.schema import Error
 import random
 import os
